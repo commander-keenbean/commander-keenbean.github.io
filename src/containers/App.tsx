@@ -13,4 +13,6 @@ function App() {
   );
 }
 
+export function appLoader() {}
+
 export default App;
